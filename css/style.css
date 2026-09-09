@@ -82,6 +82,36 @@ footer{
 
 }
 
+nav{
+
+
+
+}
+
+nav ul {
+    display: grid;
+    grid-template-colums: 100px 100px 100px 1000px;
+    grid-template-rows: auto;
+}
+
+nav ul li {
+    
+
+
+}
+
+nav uli li a {
+    
+
+
+}
+
+nav ul li a:hover {
+    
+}
+
+
+
 .inline{
     display: inline-block;
 }
