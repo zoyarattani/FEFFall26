@@ -38,4 +38,7 @@ img{
     width: 200px;
    /* height: 300px; */
     padding: 20px;
+    border-width: 10px;
+    border-color: white;
+    border-style: solid;
 }
