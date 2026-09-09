@@ -89,7 +89,7 @@ nav{
 }
 
 nav ul {
-    margin-left: -20px;
+    margin-left: -40px;
     display: grid;
     grid-template-columns: 100px 100px 100px 1000px;
     grid-template-rows: auto;
