@@ -93,7 +93,7 @@ nav ul {
     grid-template-columns: 100px 100px 100px 1000px;
     grid-template-rows: auto;
     gap: 20px;
-    justify-content: center;
+    justify-content: space-between;
 
 }
 
