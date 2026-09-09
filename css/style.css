@@ -93,7 +93,7 @@ nav ul {
     margin-left: -40px; /*adjustment for ul tag*/
     display: grid;
     grid-template-columns: 100px 100px 100px 1000px;
-    grid-template-rows: auto;
+    grid-template-rows: 30px;
     gap: 20px;
     justify-content: space-between;
     align-content: center;
