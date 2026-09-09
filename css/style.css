@@ -84,12 +84,13 @@ footer{
 
 nav{
     background-color: white;
-    height: 100px;
+    
 
 
 }
 
 nav ul {
+    height: 100px;
     margin-left: -40px; /*adjustment for ul tag*/
     display: grid;
     grid-template-columns: 100px 100px 100px 1000px;
