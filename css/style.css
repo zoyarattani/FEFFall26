@@ -33,3 +33,7 @@ ul li {
 ol li {
     list-style: lower-greek;
 }
+
+img{
+    width: 200px;
+}
